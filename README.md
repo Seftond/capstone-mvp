@@ -1,18 +1,18 @@
 # capstone-mvp
 
-#Description
+# Description
 
 A website for the band HenryIX that will list all of the tour events and dates and allow HenryIX to interact with fans.
 
-#MVP
+# MVP
 
-*List tour events and dates
+* List tour events and dates
 * Use google maps api to show directions.
 * Allow users to declare whether they are going
 * Allow users to opt into recieving texts when the date of the event is coming using vonage api
 
 
-#Additional Features
+# Additional Features
 
-*Allow users to send messages to HenryIX
-*Allow users to send HenryIX songs to their friends using Vonage API
+* Allow users to send messages to HenryIX
+* Allow users to send HenryIX songs to their friends using Vonage API
