@@ -1,4 +1,4 @@
-# capstone-mvp
+# Capstone Project - HenryIX Band
 
 # Description
 
