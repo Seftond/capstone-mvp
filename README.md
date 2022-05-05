@@ -16,3 +16,4 @@ A website for the band HenryIX that will list all of the tour events and dates a
 
 * Allow users to send messages to HenryIX
 * Allow users to send HenryIX songs to their friends using Vonage API
+* List merch and allow users to purchase on the website
