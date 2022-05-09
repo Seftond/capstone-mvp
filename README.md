@@ -17,19 +17,23 @@ A website for the band HenryIX that will list all of the tour events and dates a
 * Allow users to send messages to HenryIX
 * Allow users to send HenryIX songs to their friends using Vonage API
 * List merch and allow users to purchase on the website
+* Create a page with a form to contact HenryIX and book dates.
+* Subscribe forms
+* HenryIX's story. Timeline page
 
 
 # Data Base Information
 
 * Users information
 * Band events
+* Contact submissions?
 
 # Pages
 
 * Home (Music recordings)
 * Events
 * Contact Band
+* Shop
+* Timeline
+* Subscribe
 
-# Additional Pages
-
-* Merchandise
